@@ -1,6 +1,7 @@
 """Our Coding Challenge
 
-Write a script that counts how many times each letter appears in your full name."""
+Write a script that counts how many times each letter appears in your full name.
+"""
 
 ################################# Part 1 ############################################
 # Inital solution
